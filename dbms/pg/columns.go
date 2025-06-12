@@ -3,7 +3,7 @@ package pg
 import (
 	"database/sql"
 
-	m "github.com/gsiems/go-db-meta/model"
+	m "github.com/arijitbanik/go-db-meta/model"
 )
 
 // Columns defines the query for obtaining a list of columns
