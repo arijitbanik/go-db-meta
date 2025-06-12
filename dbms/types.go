@@ -1,9 +1,9 @@
 package dbms
 
 import (
-	"github.com/gsiems/go-db-meta/dbms/ora"
-	"github.com/gsiems/go-db-meta/dbms/pg"
-	m "github.com/gsiems/go-db-meta/model"
+	"github.com/arijitbanik/go-db-meta/dbms/ora"
+	"github.com/arijitbanik/go-db-meta/dbms/pg"
+	m "github.com/arijitbanik/go-db-meta/model"
 )
 
 // Types returns a slice of Types for the (schema) parameter
