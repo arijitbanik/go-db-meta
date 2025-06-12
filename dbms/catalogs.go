@@ -1,12 +1,12 @@
 package dbms
 
 import (
-	"github.com/gsiems/go-db-meta/dbms/mariadb"
-	"github.com/gsiems/go-db-meta/dbms/mssql"
-	"github.com/gsiems/go-db-meta/dbms/ora"
-	"github.com/gsiems/go-db-meta/dbms/pg"
-	"github.com/gsiems/go-db-meta/dbms/sqlite"
-	m "github.com/gsiems/go-db-meta/model"
+	"github.com/arijitbanik/go-db-meta/dbms/mariadb"
+	"github.com/arijitbanik/go-db-meta/dbms/mssql"
+	"github.com/arijitbanik/go-db-meta/dbms/ora"
+	"github.com/arijitbanik/go-db-meta/dbms/pg"
+	"github.com/arijitbanik/go-db-meta/dbms/sqlite"
+	m "github.com/arijitbanik/go-db-meta/model"
 )
 
 // CurrentCatalog returns the current catalog
