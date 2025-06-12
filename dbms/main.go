@@ -3,12 +3,12 @@ package dbms
 import (
 	"database/sql"
 
-	"github.com/gsiems/go-db-meta/dbms/mariadb"
-	"github.com/gsiems/go-db-meta/dbms/mssql"
-	"github.com/gsiems/go-db-meta/dbms/mysql"
-	"github.com/gsiems/go-db-meta/dbms/ora"
-	"github.com/gsiems/go-db-meta/dbms/pg"
-	"github.com/gsiems/go-db-meta/dbms/sqlite"
+	"github.com/arijitbanik/go-db-meta/dbms/mariadb"
+	"github.com/arijitbanik/go-db-meta/dbms/mssql"
+	"github.com/arijitbanik/go-db-meta/dbms/mysql"
+	"github.com/arijitbanik/go-db-meta/dbms/ora"
+	"github.com/arijitbanik/go-db-meta/dbms/pg"
+	"github.com/arijitbanik/go-db-meta/dbms/sqlite"
 )
 
 const (
