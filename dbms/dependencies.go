@@ -1,10 +1,10 @@
 package dbms
 
 import (
-	"github.com/gsiems/go-db-meta/dbms/mssql"
-	"github.com/gsiems/go-db-meta/dbms/ora"
-	"github.com/gsiems/go-db-meta/dbms/pg"
-	m "github.com/gsiems/go-db-meta/model"
+	"github.com/arijitbanik/go-db-meta/dbms/mssql"
+	"github.com/arijitbanik/go-db-meta/dbms/ora"
+	"github.com/arijitbanik/go-db-meta/dbms/pg"
+	m "github.com/arijitbanik/go-db-meta/model"
 )
 
 // Dependencies returns a slice of Dependecies for the
